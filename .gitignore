@@ -1,0 +1,6 @@
+*.pyc
+data/potentials/*
+data/potentials.tar.gz
+dataGeneration/potentials/*
+trainedModels/*
+trainedModelsJJ/*
